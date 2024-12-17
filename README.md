@@ -32,29 +32,11 @@ As responsabilidades de um Analista de Segurança Júnior ou Analista de SOC de 
 
  Aqui estão alguns laboratórios realizados durante o curso  :
 
-1. **Laboratório Phishing** 🚀
-   - Descrição: Realização de uma página do instagram para phishing.
-   - [Ver Projeto]( )
+1. **Laboratório Analista de Segurança Júnior** 🚀
+   - Descrição: Um dia na vida de um Analista de Segurança Júnior (Associado).
+   - [Ver Projeto](https://github.com/EdcarlosdeJesus/Um-dia-na-vida-de-um-Analista-de-Seguran-a-J-nior-Associado-/blob/main/README.md )
 
-2. **Laboratório Explorando falhas no FTP** 💻
-   - Descrição: Explorando falhas no FTP.
-   - [Ver Projeto]( )
 
-3. **Laboratório Ataques DoS no Windows RDP** 🪟
-   - Descrição:  Ataques DoS no Windows RDP.
-   - [Ver Projeto]( )
-  
-4. **Laboratório Explorando falhas no SSH** 👾
-   - Descrição: Explorando falhas no SSH.
-   - [Ver Projeto]( )
-  
-5. **Laboratório Capturando dados da rede** :globe_with_meridians:
-   - Descrição: Capturando dados da rede
-   - [Ver Projeto]( )
-  
-6. **Laboratório Manipulando a rede** :game_die:
-   - Descrição: Extração de dados com Metasploit
-   - [Ver Projeto]( )
   
 
 
@@ -62,11 +44,9 @@ As responsabilidades de um Analista de Segurança Júnior ou Analista de SOC de 
  
  ##  Tecnologias utilizadas⚙️
 
-- **Vms** 🖥️
-- **Windows xp / 7** :window:
+- **Tryhackme** 🖥️
 - **kali linux** :computer:
-- **Metasploit** :skull_and_crossbones:
-- **Wireshark**  :shark:
+ 
  
 
 ##  Como Contribuir🤝

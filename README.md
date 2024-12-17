@@ -1,6 +1,6 @@
-# tryhackme-Soc
+# Analista Soc
 
-#🌐 Projetos-Dio.me
+#🌐 Projetos
 
 
 👋 Bem-vindo ao meu portfólio de projetos dedicados a **SOC Nível 1 e 2**! Este repositório reúne uma série de laboratórios, projetos práticos e estudos de caso que demonstram meu aprendizado e habilidades nesta área fascinante. Aqui, você encontrará conteúdos que apresentará uma ampla gama de ferramentas e cenários de análise da vida real, permitindo me tornar um Analista de Segurança Júnior de sucesso.:wink:  
@@ -30,7 +30,7 @@ As responsabilidades de um Analista de Segurança Júnior ou Analista de SOC de 
 
 ###  Laboratórios de Cursos💻
 
- Aqui estão alguns laboratórios realizados durante o curso  :
+ Aqui estão alguns laboratórios realizados durante o curso no Tryhackme :
 
 1. **Laboratório Analista de Segurança Júnior** 🚀
    - Descrição: Um dia na vida de um Analista de Segurança Júnior (Associado).
